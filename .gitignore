@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environnement
+.env
+venv/
+.env/
+
+# Données sensibles
+service_account.json
+data/
+*.index
+
+# Modèles
+*.bin
+*.pt
+
+# OS
+.DS_Store
